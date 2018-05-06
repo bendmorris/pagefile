@@ -1,0 +1,11 @@
+{
+	"name": "pagefile",
+	"url" : "https://github.com/bendmorris/pagefile",
+	"license": "MIT",
+	"tags": [],
+	"description": "File interface based on fixed size pages.",
+	"version": "0.1.0",
+	"classPath": "src",
+	"releasenote": "Initial release.",
+	"contributors": ["bendmorris"]
+}
